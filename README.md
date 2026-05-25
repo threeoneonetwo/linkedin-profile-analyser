@@ -1,4 +1,4 @@
-# Profile Analyser
+# iHeartLinkedIn
 
 Mobile first professional profile analysis app built with Next.js, Apify, Supabase, and expert trained agentic recommendations.
 
